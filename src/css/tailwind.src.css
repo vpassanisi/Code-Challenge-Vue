@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-90p {
+  width: 90%;
+}
+
+.w-fit-content {
+  width: fit-content;
+}
